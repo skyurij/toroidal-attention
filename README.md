@@ -42,3 +42,15 @@ Biological attention is a **phase-alignment process** between:
 
 Representing them as a **double torus** yields a natural geometric model of inter-hemispheric coordination.  
 The Follower trajectory corresponds to the direction of **maximal instantaneous coherence**, analogous to predictive minimization in the brain.
+
+## ▶️ Usage
+
+To reproduce the trajectory shown in the figures, run:
+```bash
+python follower_torus_1.py
+
+The script uses:
+sonnet_1.wav — audio (reader)
+sonnet_1.txt — corresponding transcript
+
+The program opens an interactive 3D torus window and draws the Follower trajectory in real time.
