@@ -42,12 +42,3 @@ Biological attention is a **phase-alignment process** between:
 
 Representing them as a **double torus** yields a natural geometric model of inter-hemispheric coordination.  
 The Follower trajectory corresponds to the direction of **maximal instantaneous coherence**, analogous to predictive minimization in the brain.
-
----
-
-## 📁 Output (Important)
-
-⚠️ *This script does not display any graphics on screen.*
-
-All generated frames are saved automatically into:
-
